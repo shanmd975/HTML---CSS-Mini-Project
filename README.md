@@ -1,1 +1,1 @@
-# html-css-Min-Project
+# HTML-CSS-Min-Project
